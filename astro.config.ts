@@ -5,7 +5,7 @@ import { astroSpaceship } from 'astro-spaceship';
 import websiteConfig from 'astro-spaceship/config';
 
 export default defineConfig({
-  integrations: [
-    astroSpaceship(websiteConfig)
-  ]
+  site: 'https://madoreenu314.github.io',
+  base: '/til', 
 });
+
