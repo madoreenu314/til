@@ -3,14 +3,12 @@
   "type": "module",
   "version": "0.9.8",
   "scripts": {
-    "dev": "astro dev",
-    "dev-setup": "npm link astro-spaceship astro-loader-obsidian spaceship-monolith",
-    "start": "rm -fr .astro && astro dev --sync",
-    "build": "astro build --sync && npx pagefind --site dist",
-    "preview": "astro preview",
-    "astro": "astro",
-    "sync": "astro sync"
-  },
+  "dev": "astro dev",
+  "build": "astro build --sync && npx pagefind --site dist --bundle-dir til/pagefind",
+  "preview": "astro preview",
+  "astro": "astro",
+  "sync": "astro sync"
+},
   "dependencies": {
     "astro": "^5.12.8",
     "astro-loader-obsidian": "^0.9.1",
