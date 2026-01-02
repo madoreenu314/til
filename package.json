@@ -4,7 +4,7 @@
   "version": "0.9.8",
   "scripts": {
   "dev": "astro dev",
-  "build": "astro build --sync && npx pagefind --site dist --bundle-dir til/pagefind",
+  "build": "astro build --sync && npx pagefind --site dist && mv dist/pagefind dist/tilpagefind",
   "preview": "astro preview",
   "astro": "astro",
   "sync": "astro sync"
