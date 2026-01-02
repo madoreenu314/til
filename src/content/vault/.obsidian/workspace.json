@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "やったほうがいいこと/早寝.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "早寝"
+              "title": "readme"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "やったほうがいいこと/早寝.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 早寝"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -253,13 +253,13 @@
   },
   "active": "eab577d29aa4d878",
   "lastOpenFiles": [
+    "やったほうがいいこと/早寝.md",
     "やったほうがいいこと/やったほうがいいこと.md",
     "AtCoder/AtCoder.md",
     "やったほうがいいこと/Untitled.md",
     "AtCoder",
     "readme.md",
     "Untitled.md",
-    "やったほうがいいこと/早寝.md",
     "人生/人生.md",
     "人生",
     "やったほうがいいこと",

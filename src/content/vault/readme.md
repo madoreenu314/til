@@ -15,6 +15,7 @@ repo: https://github.com/madoreenu314/til
 ```Bash
 rm -rf .astro
 npx astro dev --base /til
+npm run build
 ```
 
 フォルダ構成を変更した際は必ずAstro側のキャッシュを削除する。
