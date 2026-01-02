@@ -2,5 +2,31 @@
 import "@/styles/landing.css";
 
 import LandingPage from "astro-spaceship/components/LandingPage/Spaceship.astro";
+import { Image } from 'astro:assets';
+import myLogo from '../assets/logo.png';
 ---
+
 <LandingPage />
+
+<style is:global>
+  .logo {
+    opacity: 0 !important;
+    pointer-events: none;
+  }
+  .my-custom-logo-wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 100;
+  }
+  .title{
+    display:none;
+  }
+</style>
+
+<div class="my-custom-logo-wrapper">
+<a href="/til/about-this-website">
+  <Image src={myLogo} width={120} alt="My TIL Logo" />
+</a>
+</div>
