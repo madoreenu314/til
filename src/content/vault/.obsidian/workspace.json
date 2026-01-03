@@ -97,16 +97,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static site.md",
+                "file": "things you should do/sleep early.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "static site"
+              "title": "sleep early"
+            }
+          },
+          {
+            "id": "7d2a9a07a0d05289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digital garden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "digital garden"
+            }
+          },
+          {
+            "id": "8e4b3e2f6fc3a1d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "music/music.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "music"
+            }
+          },
+          {
+            "id": "ab3d9d1ffcfa150e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "music/artists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "artists"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -279,14 +321,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63c7b9eaef11ad7a",
+  "active": "ab3d9d1ffcfa150e",
   "lastOpenFiles": [
-    "AtCoder/AtCoder.md",
-    "readme.md",
+    "music/music.md",
+    "music/artists.md",
+    "music",
     "digital garden.md",
+    "AtCoder/AtCoder.md",
+    "things you should do/eat well.md",
     "static site.md",
-    "things you should do/sleep early.md",
+    "readme.md",
     "Astro.md",
+    "things you should do/sleep early.md",
+    "AtCoder/解く.md",
     "things you should do/things you should do.md",
     "things you should do",
     "things you should dddo/things you should do.md",
@@ -308,8 +355,6 @@
     "About this website11.md",
     "これがそう.md",
     "About this website2.md",
-    "あああ.md",
-    "wa.md",
-    "sasa.md"
+    "あああ.md"
   ]
 }
