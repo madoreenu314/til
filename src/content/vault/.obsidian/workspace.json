@@ -153,16 +153,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "things you should do/write them out.md",
+                "file": "things you should do/things you should do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "write them out"
+              "title": "things you should do"
+            }
+          },
+          {
+            "id": "bce1d0f6da88cfe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AtCoder/AtCoder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AtCoder"
+            }
+          },
+          {
+            "id": "03634f3618bf2c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AtCoder/memo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "memo"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -335,20 +363,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6db4cf255f43962c",
+  "active": "03634f3618bf2c93",
   "lastOpenFiles": [
-    "things you should do/things you should do.md",
-    "things you should do/write them out.md",
-    "things you should do/eat well.md",
+    "AtCoder/AtCoder.md",
     "music/artists.md",
+    "AtCoder/memo.md",
+    "things you should do/when sick.md",
+    "things you should do/write them out.md",
+    "things you should do/things you should do.md",
+    "things you should do/sleep early.md",
+    "things you should do/eat well.md",
     "music/music.md",
     "music",
     "digital garden.md",
-    "AtCoder/AtCoder.md",
     "static site.md",
     "readme.md",
     "Astro.md",
-    "things you should do/sleep early.md",
     "AtCoder/解く.md",
     "things you should do",
     "things you should dddo/things you should do.md",
@@ -367,8 +397,6 @@
     "人生",
     "Things you should do",
     "About this website.md",
-    "About this website11.md",
-    "これがそう.md",
-    "About this website2.md"
+    "About this website11.md"
   ]
 }

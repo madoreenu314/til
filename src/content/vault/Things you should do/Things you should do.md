@@ -1,3 +1,4 @@
 - [[sleep early]]
 - [[eat well]]
 - [[write them out]]
+- [[when sick]]
