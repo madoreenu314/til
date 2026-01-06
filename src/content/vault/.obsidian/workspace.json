@@ -181,16 +181,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AtCoder/memo.md",
+                "file": "digital garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "memo"
+              "title": "digital garden"
+            }
+          },
+          {
+            "id": "3e72b4fb4b2007d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "questions"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -363,19 +377,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03634f3618bf2c93",
+  "active": "3e72b4fb4b2007d5",
   "lastOpenFiles": [
+    "digital garden.md",
+    "questions.md",
+    "things you should do/Untitled.md",
+    "things you should do/write them out.md",
+    "AtCoder/memo.md",
     "AtCoder/AtCoder.md",
     "music/artists.md",
-    "AtCoder/memo.md",
     "things you should do/when sick.md",
-    "things you should do/write them out.md",
     "things you should do/things you should do.md",
     "things you should do/sleep early.md",
     "things you should do/eat well.md",
     "music/music.md",
     "music",
-    "digital garden.md",
     "static site.md",
     "readme.md",
     "Astro.md",
@@ -395,8 +411,6 @@
     "AtCoder",
     "人生/人生.md",
     "人生",
-    "Things you should do",
-    "About this website.md",
-    "About this website11.md"
+    "Things you should do"
   ]
 }
