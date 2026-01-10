@@ -11,3 +11,6 @@ for i in range(max_len):
 ```
 1,4,2,5,3,
 
+### 便利リンク
+- bit全探索
+	- https://qlitre-weblog.com/python-bit-all-search-easy-trick
