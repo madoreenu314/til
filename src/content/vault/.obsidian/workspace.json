@@ -195,16 +195,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AtCoder/memo.md",
+                "file": "AtCoder/AtCoder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "memo"
+              "title": "AtCoder"
+            }
+          },
+          {
+            "id": "ae3928a14114486e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AtCoder/favorites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "favorites"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -377,14 +391,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e72b4fb4b2007d5",
+  "active": "ae3928a14114486e",
   "lastOpenFiles": [
     "AtCoder/AtCoder.md",
+    "AtCoder/favorites.md",
+    "AtCoder/memo.md",
     "questions.md",
     "digital garden.md",
     "things you should do/Untitled.md",
     "things you should do/write them out.md",
-    "AtCoder/memo.md",
     "music/artists.md",
     "things you should do/when sick.md",
     "things you should do/things you should do.md",
@@ -409,7 +424,6 @@
     "Things you should do/sleep early.md",
     "やったほうがいいこと/Untitled.md",
     "AtCoder",
-    "人生/人生.md",
     "人生",
     "Things you should do"
   ]
