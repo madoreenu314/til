@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "things you should do/buy everything.md",
+                "file": "things you should do/things you should do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "buy everything"
+              "title": "things you should do"
             }
           }
         ],
@@ -407,8 +407,8 @@
   },
   "active": "c8ebec5864f980eb",
   "lastOpenFiles": [
-    "things you should do/eat well.md",
     "things you should do/buy everything.md",
+    "things you should do/eat well.md",
     "things you should do/when sick.md",
     "things you should do/things you should do.md",
     "things you should do/sleep early.md",
