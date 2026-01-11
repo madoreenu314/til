@@ -1,0 +1,4 @@
+- [x] ラブブ
+	- 今更だが欲しかった色をゲット(2026/01)
+- [ ] Thocky keyboard
+	- Leobog Hi75 Astronaut Edition
