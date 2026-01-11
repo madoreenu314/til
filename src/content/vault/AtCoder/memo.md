@@ -14,3 +14,5 @@ for i in range(max_len):
 ### 便利リンク
 - bit全探索
 	- https://qlitre-weblog.com/python-bit-all-search-easy-trick
+- DP
+	- https://qiita.com/drken/items/dc53c683d6de8aeacf5a
