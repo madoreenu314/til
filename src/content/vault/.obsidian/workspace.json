@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/static site.md",
+                "file": "dev/FE exam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "static site"
+              "title": "FE exam"
             }
           }
         ],
@@ -435,11 +435,12 @@
   },
   "active": "475075c08545236a",
   "lastOpenFiles": [
+    "dev/dev.md",
+    "dev/FE exam.md",
+    "dev/static site.md",
     "dev/Astro.md",
     "dev/desktop app.md",
-    "dev/dev.md",
     "readme.md",
-    "dev/static site.md",
     "things you should do/write them out.md",
     "things you should do/when sick.md",
     "things you should do/things you should do.md",
@@ -465,7 +466,6 @@
     "things you should do/things you sh/things you should do.md",
     "things you should do/things you sh/sleep early.md",
     "things you should do/things you sh",
-    "Things you should do/things you should do.md",
     "AtCoder",
     "人生",
     "Things you should do"
