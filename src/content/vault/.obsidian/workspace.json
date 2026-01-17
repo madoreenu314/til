@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/FE exam.md",
+                "file": "dev/static site.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FE exam"
+              "title": "static site"
             }
           }
         ],
@@ -436,8 +436,8 @@
   "active": "475075c08545236a",
   "lastOpenFiles": [
     "dev/dev.md",
-    "dev/FE exam.md",
     "dev/static site.md",
+    "dev/FE exam.md",
     "dev/Astro.md",
     "dev/desktop app.md",
     "readme.md",
