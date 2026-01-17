@@ -10,3 +10,4 @@
 - [ ] 多言語対応
 	- polygotを使えそう
 	- https://aturret.space/posts/Jekyll-Blog-Deployment/
+- [ ] google analytics
