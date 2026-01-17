@@ -19,3 +19,4 @@ for i in range(max_len):
 	- 10 ^ 5 (10万)パターンくらいだったらOK
 - DP
 	- https://qiita.com/drken/items/dc53c683d6de8aeacf5a
+	- 数え上げが来たら疑おう（状態数が少ないならdfsでもいいけど）
