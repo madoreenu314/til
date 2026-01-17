@@ -15,5 +15,7 @@ for i in range(max_len):
 - bit全探索
 	- https://qlitre-weblog.com/python-bit-all-search-easy-trick
 	- N=20の約2,000万回の計算は十分間に合うが、N=30の約300億回では無理
+- 全探索
+	- 10 ^ 5 (10万)パターンくらいだったらOK
 - DP
 	- https://qiita.com/drken/items/dc53c683d6de8aeacf5a
