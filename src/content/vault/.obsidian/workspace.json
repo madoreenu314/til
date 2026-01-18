@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AtCoder/memo.md",
+                "file": "things you should do/buy everything.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "memo"
+              "title": "buy everything"
             }
           }
         ],
@@ -435,6 +435,7 @@
   },
   "active": "475075c08545236a",
   "lastOpenFiles": [
+    "AtCoder/memo.md",
     "dev/dev.md",
     "dev/FE exam.md",
     "dev/static site.md",
@@ -452,7 +453,6 @@
     "AtCoder/AtCoder.md",
     "AtCoder/favorites.md",
     "dev",
-    "AtCoder/memo.md",
     "questions.md",
     "digital garden.md",
     "music",

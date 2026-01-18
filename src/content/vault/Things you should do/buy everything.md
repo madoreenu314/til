@@ -1,4 +1,6 @@
 - [x] ラブブ
 	- 今更だが欲しかった色をゲット(2026/01)
 - [ ] Thocky keyboard
-	- Leobog Hi75 Astronaut Edition
+	- ~~Leobog Hi75 Astronaut Edition~~
+	- Rainy75
+		- いい音すぎる。Macの下にリータブルコードと玉手箱の参考書を置くとちょうどいい高さになると気づいた
