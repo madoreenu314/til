@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "things you should do/buy everything.md",
+                "file": "AtCoder/memo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "buy everything"
+              "title": "memo"
             }
           }
         ],
@@ -435,6 +435,8 @@
   },
   "active": "475075c08545236a",
   "lastOpenFiles": [
+    "AtCoder/AtCoder.md",
+    "things you should do/buy everything.md",
     "AtCoder/memo.md",
     "dev/dev.md",
     "dev/FE exam.md",
@@ -447,10 +449,8 @@
     "things you should do/things you should do.md",
     "things you should do/sleep early.md",
     "things you should do/eat well.md",
-    "things you should do/buy everything.md",
     "music/music.md",
     "music/artists.md",
-    "AtCoder/AtCoder.md",
     "AtCoder/favorites.md",
     "dev",
     "questions.md",
