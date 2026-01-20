@@ -1,5 +1,13 @@
 有向グラフの閉路（ぐるぐるループ）検出
 - 未訪問(white)、探索中(gray)、探索済み(black)の3状態で管理。単なる合流と閉路を見分ける必要がある
+
+- 以下のような「ひし形」のグラフ（$A \rightarrow B, A \rightarrow C, B \rightarrow D, C \rightarrow D$）を考えてみましょう。
+	1. $A \rightarrow B \rightarrow D$ と進む。$D$ を「訪問済み」にする。
+	2. 一度 $A$ まで戻り、別ルートの $A \rightarrow C \rightarrow D$ と進む。
+	3. $D$ を見ると、既に「訪問済み」になっている。
+	4. **「訪問済みに戻ってきたから閉路だ！」と誤判定してしまう。**
+
+
 ``` python
 n = ...
 g = ...
