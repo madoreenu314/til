@@ -25,3 +25,4 @@ for i in range(max_len):
 	import sys
 	sys.setrecursionlimit(2000) # Nの最大値以上に設定
 	```
+- [[graph]]

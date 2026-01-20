@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "vimMode": true
 }
