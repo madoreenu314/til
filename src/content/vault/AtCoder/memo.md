@@ -33,17 +33,17 @@ for i in range(max_len):
 
 	```
 - BFS
-``` python
-from collections import deque
+	``` python
+	from collections import deque
 
-dq = deque([start])
-seen[start] = True
+	dq = deque([start])
+	seen[start] = True
 
-while dq:
-    v = dq.popleft()
-    for nv in graph[v]:
-        if not seen[nv]:
-            seen[nv] = True
-            dq.append(nv)
-```
+	while dq:
+	    v = dq.popleft()
+	    for nv in graph[v]:
+	        if not seen[nv]:
+	            seen[nv] = True
+	            dq.append(nv)
+	```
 - [[graph]]
