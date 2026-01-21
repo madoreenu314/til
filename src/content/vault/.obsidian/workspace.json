@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "things you should do/things you should do.md",
+                "file": "AtCoder/memo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "things you should do"
+              "title": "memo"
             }
           }
         ],
@@ -449,8 +449,9 @@
   },
   "active": "482ade2c65a881d1",
   "lastOpenFiles": [
-    "AtCoder/memo.md",
     "AtCoder/graph.md",
+    "AtCoder/memo.md",
+    "things you should do/things you should do.md",
     "things you should do/eat well.md",
     "AtCoder/favorites.md",
     "AtCoder/AtCoder.md",
@@ -463,7 +464,6 @@
     "readme.md",
     "things you should do/write them out.md",
     "things you should do/when sick.md",
-    "things you should do/things you should do.md",
     "things you should do/sleep early.md",
     "music/music.md",
     "music/artists.md",

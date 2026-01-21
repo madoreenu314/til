@@ -24,5 +24,12 @@ for i in range(max_len):
 	```python
 	import sys
 	sys.setrecursionlimit(2000) # Nの最大値以上に設定
+	
+	def dfs(v):
+		seen[v] = True
+	    for nv in graph[v]:
+	        if not seen[nv]:
+	            dfs(nv)
+
 	```
 - [[graph]]
