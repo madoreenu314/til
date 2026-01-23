@@ -36,14 +36,15 @@ for i in range(max_len):
 	``` python
 	from collections import deque
 
-	dq = deque([start])
+	Q = deque([start])
 	seen[start] = True
 
-	while dq:
-	    v = dq.popleft()
+	while len(Q)>0:
+	    v = Q.popleft()
 	    for nv in graph[v]:
 	        if not seen[nv]:
 	            seen[nv] = True
-	            dq.append(nv)
+	            Q.append(nv)
 	```
+	- 複数の地点から同時に広げたい（塗りたい・伝播させたい）なら、  最初に全部のスタート地点を Q にぶち込んでから BFS を1回だけ回す。間違えて`for`の中に`while`を書かないこと
 - [[graph]]
