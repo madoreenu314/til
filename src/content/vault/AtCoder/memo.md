@@ -26,12 +26,16 @@ for i in range(max_len):
 	sys.setrecursionlimit(2000) # Nの最大値以上に設定
 	
 	def dfs(v):
-		seen[v] = True
+	    if v == X:
+	        記録
+	        return
 	    for nv in graph[v]:
-	        if not seen[nv]:
+	        if not used[nv]:
+	            used[nv] = True
 	            dfs(nv)
-
+	            used[nv] = False # 重要
 	```
+	- 同じ頂点は 2回通らないで、ある始点から 地点 X に行けるか／行き方を調べたい時↑
 - BFS
 	``` python
 	from collections import deque
