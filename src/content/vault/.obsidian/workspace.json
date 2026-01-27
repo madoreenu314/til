@@ -272,9 +272,37 @@
               "icon": "lucide-file",
               "title": "memo"
             }
+          },
+          {
+            "id": "595b12b489b33a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "things you should do/write them out.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "write them out"
+            }
+          },
+          {
+            "id": "63bbe3cb2da5d7d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "things you should do/diary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "diary"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -447,10 +475,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "482ade2c65a881d1",
+  "active": "63bbe3cb2da5d7d1",
   "lastOpenFiles": [
-    "AtCoder/graph.md",
+    "things you should do/write them out.md",
+    "things you should do/diary.md",
     "AtCoder/memo.md",
+    "AtCoder/graph.md",
     "things you should do/things you should do.md",
     "things you should do/eat well.md",
     "AtCoder/favorites.md",
@@ -462,7 +492,6 @@
     "dev/Astro.md",
     "dev/desktop app.md",
     "readme.md",
-    "things you should do/write them out.md",
     "things you should do/when sick.md",
     "things you should do/sleep early.md",
     "music/music.md",
@@ -478,7 +507,6 @@
     "things you should dddo",
     "AtCoder/things you should do.md",
     "AtCoder/sleep early.md",
-    "things you should do/things you sh/things you should do.md",
     "things you should do/things you sh",
     "AtCoder",
     "人生",
