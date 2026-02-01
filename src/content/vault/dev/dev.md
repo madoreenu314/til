@@ -2,3 +2,4 @@
 - [[desktop app]]
 
 - [[FE exam]]
+- [[hackathon]]
