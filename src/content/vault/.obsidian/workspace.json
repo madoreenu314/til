@@ -307,12 +307,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/hackathon.md",
+                "file": "things you should do/buy everything.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hackathon"
+              "title": "buy everything"
             }
           }
         ],
@@ -491,8 +491,8 @@
   },
   "active": "bffb2f1543b1973d",
   "lastOpenFiles": [
-    "dev/dev.md",
     "dev/hackathon.md",
+    "dev/dev.md",
     "AtCoder/memo.md",
     "AtCoder/graph.md",
     "AtCoder/favorites.md",
